@@ -1,0 +1,22 @@
+<<<<<<< HEAD
+pandas
+numpy
+seaborn
+matplotlib
+scikit-learn
+catboost
+xgboost
+=======
+pandas
+numpy
+seaborn
+matplotlib
+scikit-learn
+catboost
+xgboost
+<<<<<<< HEAD
+>>>>>>> 718fea5 (commit)
+=======
+plotly
+>>>>>>> 01de383 (firstcommit-2)
+-e .
