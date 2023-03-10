@@ -3,3 +3,13 @@ git config --global user.name "Shrihith"
 git config --global user.email "shrihith93@gmail.com"
 
 git config --global core.editor "code -w"
+
+git init
+git add .
+git status
+git commit -m "Commit"
+git branch -M main
+git remote add origin https://github.com/
+git push -u origin main
+
+pip install -r requirements.txt
