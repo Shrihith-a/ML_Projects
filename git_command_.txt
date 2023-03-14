@@ -1,6 +1,6 @@
 git config --global user.name "Shrihith"
 
-git config --global user.email "shrihith93@gmail.com"
+git config --global user.email "ashrihith93@gmail.com"
 
 git config --global core.editor "code -w"
 
